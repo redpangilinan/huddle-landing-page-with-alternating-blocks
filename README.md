@@ -28,12 +28,6 @@ Users should be able to:
 
 ![](./images/solution-screenshot.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -53,7 +47,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 Here is the codes that I wanna highlight. I learned a lot from these sections.
 
-This long html section is the footer of the webpage, it took me a few hours to code and gave me a lot of frustration but puzzling until the design is finished with full responsiveness is very satisfying.
+
+#### Html Highlight
+
+This long html section is the footer of the webpage, it took me a few hours to code and gave me a lot of frustration but puzzling the design until it is finished with full responsiveness is very satisfying.
+
 ```html
 <footer class="position-relative">
     <section class="community-box">
@@ -145,7 +143,9 @@ This long html section is the footer of the webpage, it took me a few hours to c
   </footer>
 ```
 
-Can't say I'm very proud of this CSS but this is the first time I used @media so it's a new experience for me. Probably not the best code out there but I learned a lot from coding this CSS section and it gives a lot of satisfaction seeing your finished design with full responsiveness.
+#### CSS Highlight
+
+I can't say I'm very proud of this CSS but this is the first time I used @media so it's a new experience for me. Probably not the best code out there but I learned a lot from coding this section and it gives a lot of satisfaction seeing your finished design with full responsiveness.
 ```css
 @media only screen and (min-width: 993px) {
   .mobile {
@@ -348,17 +348,14 @@ Can't say I'm very proud of this CSS but this is the first time I used @media so
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
 ### Continued development
 
-I learned a lot about responsiveness in this project, that's why I will implement it in all of my future projects. I have learned a lot about techniques on setting up responsive webpages both in CSS and Bootstrap. Bootstrap makes responsive website development quicker although I find it frustrating at times. Still really good to use though, I also plan on using Bootstrap in most of my future projects because it makes me coding quicker, which is the entire purpose of Bootstrap.
+I learned a lot about responsiveness in this project, that's why I will implement it in all of my future projects. I have learned a lot about techniques on setting up responsive webpages both in CSS and Bootstrap. Bootstrap makes responsive website development quicker although I find it frustrating at times. Still really good to use though, I also plan on using Bootstrap in most of my future projects because it makes me code quicker, which is the entire purpose of Bootstrap.
 
 ### Useful resources
 
 - [Official Bootstrap Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - This is my reference for bootstrap.
-- [Animate on scroll library](https://michalsnik.github.io/aos/) - Really good animation library that is quick and easy to setup.
+- [Animate on Scroll Library](https://michalsnik.github.io/aos/) - Really good animation library that is quick and easy to setup.
 
 ## Author
 
