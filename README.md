@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-using-bootstrap-ese4xmrIrX)
 - Live Site URL: [Live Website](https://redpangilinan.github.io/huddle-landing-page-with-alternating-blocks/)
 
 ## My process
