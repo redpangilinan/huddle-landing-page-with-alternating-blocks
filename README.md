@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Website](https://redpangilinan.github.io/huddle-landing-page-with-alternating-blocks/)
 
 ## My process
 
@@ -45,12 +45,11 @@ Users should be able to:
 
 ### What I learned
 
-Here is the codes that I wanna highlight. I learned a lot from these sections.
-
-
-#### Html Highlight
+Here are the codes that I want to highlight. I learned a lot from these sections.
 
 This long html section is the footer of the webpage, it took me a few hours to code and gave me a lot of frustration but puzzling the design until it is finished with full responsiveness is very satisfying.
+
+#### Html:
 
 ```html
 <footer class="position-relative">
@@ -143,9 +142,10 @@ This long html section is the footer of the webpage, it took me a few hours to c
   </footer>
 ```
 
-#### CSS Highlight
-
 I can't say I'm very proud of this CSS but this is the first time I used @media so it's a new experience for me. Probably not the best code out there but I learned a lot from coding this section and it gives a lot of satisfaction seeing your finished design with full responsiveness.
+
+#### CSS:
+
 ```css
 @media only screen and (min-width: 993px) {
   .mobile {
