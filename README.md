@@ -68,27 +68,32 @@ This long html section is the footer of the webpage, it took me a few hours to c
     <section class="footer-content">
       <div class="container footer-link">
         <div class="row">
-          <div class="col px-4 responsive-footer" data-aos="fade-up">
+          <div class="col px-4 responsive-footer">
             <img src="./images/logo.svg" alt="" class="footer-huddle zoom mb-5">
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4 responsive-footer d-flex justify-content-center align-content-center justify-content-md-start align-content-md-start" data-aos="fade-up">
+          <div
+            class="col-md-4 responsive-footer d-flex justify-content-center align-content-center justify-content-md-start align-content-md-start">
             <address>
               <ul class="nav flex-column address-font fa-ul">
                 <li class="nav-item mb-4">
-                  <a href="http://maps.google.com/?q=1 23 Buchman Drive, Albany,ny, 12211  United States" target="_blank"><span class="fa-li"><i class="fa-solid fa-location-dot"></i></i></span>23 Buchman Drive, Albany,ny,<br> 12211 United States</a>
+                  <a href="http://maps.google.com/?q=1 23 Buchman Drive, Albany,ny, 12211  United States"
+                    target="_blank"><span class="fa-li"><i class="fa-solid fa-location-dot"></i></i></span>23 Buchman
+                    Drive, Albany,ny,<br> 12211 United States</a>
                 </li>
                 <li class="nav-item mb-4">
-                  <a href="tel:+1-543-123-4567"><span class="fa-li"><i class="fa-solid fa-phone-volume"></i></span>+1-543-123-4567</a>
+                  <a href="tel:+1-543-123-4567"><span class="fa-li"><i
+                        class="fa-solid fa-phone-volume"></i></span>+1-543-123-4567</a>
                 </li>
                 <li class="nav-item mb-4">
-                  <a href="mailto:example@huddle.com"><span class="fa-li"><i class="fa-solid fa-envelope"></i></span>example@huddle.com</a>
+                  <a href="mailto:example@huddle.com"><span class="fa-li"><i
+                        class="fa-solid fa-envelope"></i></span>example@huddle.com</a>
                 </li>
               </ul>
             </address>
           </div>
-          <div class="col-2 ms-lg-3 responsive-footer" data-aos="fade-up">
+          <div class="col-2 ms-lg-3 responsive-footer">
             <ul class="nav flex-column">
               <li class="nav-item mb-1">
                 <a href="#" class="nav-link">About Us</a>
@@ -101,7 +106,7 @@ This long html section is the footer of the webpage, it took me a few hours to c
               </li>
             </ul>
           </div>
-          <div class="col-2 ms-lg-3 responsive-footer" data-aos="fade-up">
+          <div class="col-2 ms-lg-3 responsive-footer">
             <ul class="nav flex-column">
               <li class="nav-item mb-1">
                 <a href="#" class="nav-link">Career</a>
@@ -114,7 +119,7 @@ This long html section is the footer of the webpage, it took me a few hours to c
               </li>
             </ul>
           </div>
-          <div class="col-md mb-md-5 mt-5 mt-md-0 d-flex justify-content-center align-content-md-center" data-aos="fade-left">
+          <div class="col-md mb-md-5 mt-5 mt-md-0 d-flex justify-content-center align-content-md-center">
             <ul class="list-unstyled d-flex">
               <li class="ms-0">
                 <a href="#" class="nav-link zoom-2"><i class="fa-brands fa-square-facebook socials"></i></a>
