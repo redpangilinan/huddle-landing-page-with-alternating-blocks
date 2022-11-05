@@ -37,7 +37,6 @@ Users should be able to:
 
 - HTML
 - CSS
-- JavaScript
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework
 - [AOS](https://michalsnik.github.io/aos/) - Animate on Scroll Library
 
