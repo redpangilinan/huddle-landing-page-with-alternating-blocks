@@ -265,7 +265,7 @@ address a {
   }
 
   .responsive-top {
-    top: -10% !important;
+    top: -8% !important;
   }
 
   /* Community Box */
@@ -323,7 +323,7 @@ address a {
   }
 
   .responsive-top {
-    top: -10% !important;
+    top: -8% !important;
   }
 
   @media only screen and (max-width: 767px) {
